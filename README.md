@@ -16,30 +16,30 @@
 <p>
     Hello? Let me know if u wanna see more of my websites, I can make more if you want.
 </p>
-<p style="color: rgb(225, 17, 166); font-size: 30px ;"> My  phone number if you want to contact me is: </style>
+<p style="color: rgb (225, 17, 166); font-size: 30px ;"> My  phone number if you want to contact me is: </style>
 <h1>
     <address>+491792041210</address>
  </h1>
 
   <style>
       p {
-         color: rgb(0, 255, 21); font-size: 20px;
+         color: rgb (0, 255, 21); font-size: 20 px;
       }
       
       h1 {
-         color: rgb(225, 17, 163); font-size: 20px;
+         color: rgb (225, 17, 163); font-size: 20 px;
       }
       address
       {
-         color: rgba(51, 102, 255, 0.8);
-              font-size: 40px;
+         color: rgba (51, 102, 255, 0.8);
+              font-size: 40 px;
       }
       img {
-         width: 1200px;
-         height: 900px;
+         width: 1200 px;
+         height: 900 px;
       }
       body {
-      background-image: url("https://cdn.misidezone.com/wallpaper/miside/mila.jpg"); margin: 0%;
+      background-image: url("https://cdn.misidezone.com/wallpaper/miside/mila.jpg"); margin: 0 %;
       background-size: cover;
       background-repeat: no-repeat;
    }
