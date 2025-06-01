@@ -16,7 +16,7 @@
 <p>
     Hello? Let me know if u wanna see more of my websites, I can make more if you want.
 </p>
-<p style="color: rgb (225, 17, 166); font-size: 30px ;"> My  phone number if you want to contact me is: </style>
+<p style="color: rgb (225, 17, 166); font-size: 30 px ;"> My  phone number if you want to contact me is: </style>
 <h1>
     <address>+22222222222</address>
  </h1>
