@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <!-- Copyright 2025@ by Shirakua All Rights Reserved. -->
 <html lang="eng"></html> 
+<div class="content view"></div>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,7 +19,7 @@
 </p>
 <p style="color: rgb (225, 17, 166); font-size: 30 px ;"> My  phone number if you want to contact me is: </style>
 <h1>
-    <address>+22222222222</address>
+    <address>+491792041210</address>
  </h1>
 
   <style>
@@ -35,11 +36,12 @@
               font-size: 40 px;
       }
       img {
-         width: 1200 px;
-         height: 900 px;
+         width: 600 px;
+         height: 550 px;
       }
       body {
-      background-image: url("https://cdn.misidezone.com/wallpaper/miside/mila.jpg"); margin: 0 %;
+      background-image: url("https://cdn.misidezone.com/wallpaper/miside/mila.jpg"); margin: 0 %; height: 90 px;
       background-size: cover;
       background-repeat: no-repeat;
+      display: block;
    }
